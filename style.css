@@ -55,7 +55,7 @@ body::before {
 
 .container__botao {
     border-radius: 16px;
-    background: #1875E8;
+    background: red;
     padding: 16px 24px;
     width: 100%;
     font-size: 24px;
